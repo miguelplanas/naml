@@ -1,0 +1,23 @@
+# Numerical Analysis and Machine Learning Projects
+# Python Dependencies
+
+# Core Scientific Computing
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Automatic Differentiation
+jax>=0.3.0
+jaxlib>=0.3.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Optional: Deep Learning (for extended neural network projects)
+# torch>=1.9.0
+# tensorflow>=2.6.0
